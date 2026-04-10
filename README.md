@@ -14,4 +14,4 @@
 
 ## 3. Mạch điều khiển IOT
  **Thời gian hoàn thiện :** Sinh viên năm 4.
-- **Tính năng:** 16 INPUT, 10 ngõ ra relay, truyền thông RS485,2 cổng ADC, 1 cổng phát âm thanh sử dụng vi xử lý ESP32
+- **Tính năng:** 16 INPUT, 10 ngõ ra relay, truyền thông RS485,2 cổng ADC (0-10V), 1 cổng phát âm thanh sử dụng vi xử lý ESP32
