@@ -1,4 +1,4 @@
-# Circuit Design Projects
+# Projects
 
 ## 1. Mạch điều khiển động cơ
 - **Thời gian hoàn thiện** Sinh viên năm 2 
